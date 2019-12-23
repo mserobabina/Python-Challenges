@@ -23,5 +23,3 @@ The Python script analyzes the votes and calculates each of the following:
 - The winner of the election based on popular vote
 
 ![Test image](https://github.com/mserobabina/Python-Challenges/blob/master/PyPoll/py1.PNG)
-
-
