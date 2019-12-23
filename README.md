@@ -26,6 +26,6 @@ Creating a Python script that analyzes the votes and calculates each of the foll
 - The total number of votes each candidate won
 - The winner of the election based on popular vote
 
-![Test image](https://github.com/mserobabina/Python-Challenges/blob/master/PyBank/py1.PNG)
+![Test image](https://github.com/mserobabina/Python-Challenges/blob/master/PyPoll/py1.PNG)
 
 
