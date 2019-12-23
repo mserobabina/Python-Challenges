@@ -15,11 +15,11 @@ The Python script analyzes the financial records calculates each of the followin
 ![Test image](https://github.com/mserobabina/Python-Challenges/blob/master/PyBank/py2.PNG)
 
 ## PyPoll
-Python Script for analysis small, rural town vote-counting process.Provided a set of poll data wich you can find [here](https://raw.githubusercontent.com/mserobabina/Python-Challenges/master/PyPoll/Resources/election_data.csv).
+Creating a Python Script for analysis small, rural town vote-counting process. Data set of poll data you can find [here](https://raw.githubusercontent.com/mserobabina/Python-Challenges/master/PyPoll/Resources/election_data.csv).
 
 The dataset is composed of three columns: `Voter`, `ID`, `County`, and `Candidate`.
 
-Creating a Python script that analyzes the votes and calculates each of the following:
+The Python script analyzes the votes and calculates each of the following:
 - The total number of votes cast
 - A complete list of candidates who received votes
 - The percentage of votes each candidate won
